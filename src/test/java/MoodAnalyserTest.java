@@ -15,13 +15,13 @@ public class MoodAnalyserTest {
 
     }
 
-    @Test
-    public void testHappyMood(){
-
-        mood = new MoodAnalyser("I am in Happy mood");
-
-        System.out.println(mood.analyseMood());
-
-    }
+//    @Test
+//    public void testHappyMood(){
+//
+//        mood = new MoodAnalyser("I am in Happy mood");
+//
+//        System.out.println(mood.analyseMood());
+//
+//    }
 
 }
