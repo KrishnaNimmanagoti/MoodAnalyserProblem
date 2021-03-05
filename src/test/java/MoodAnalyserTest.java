@@ -9,7 +9,7 @@ public class MoodAnalyserTest {
     @Test
     public void testSadMood() throws MoodAnalyserException {
 
-        mood = new MoodAnalyser("");
+        mood = new MoodAnalyser("EMPTY");
 
         System.out.println(mood.analyseMood());
 
